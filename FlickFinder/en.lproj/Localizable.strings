@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  FlickFinder
+
+  Created by Phil Pepper on 14/09/2022.
+  
+*/
+
+"lNoResultFoundAlertTitle" = "No Result Found";
+"lNoResultFoundAlertMessage" = "Search failed to find any result matching the entered criteria.";
